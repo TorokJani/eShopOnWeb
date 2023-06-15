@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 05d5041f-7aab-4856-a1ec-d00fe35b31c3
-  WEBAPP-NAME: az400-torokjanostamas
+  WEBAPP-NAME: az400-torokjanostamas2
 
 
 jobs:
